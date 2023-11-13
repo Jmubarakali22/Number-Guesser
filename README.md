@@ -9,5 +9,6 @@ Welcome to the Number Guessing Game! Try to guess the randomly generated number.
 
 --Keep guessing until you correctly identify the random number.
 
-###Scoring
+### Scoring
+
 --The game keeps track of the number of guesses it took to find the correct number.
